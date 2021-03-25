@@ -1,2 +1,2 @@
-# http:/nejihyuga,github.io
+# http:/nejihyuga.github.io
  A minha pagina para uma personagem
